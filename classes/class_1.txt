@@ -1,0 +1,15 @@
+Class: BrunchRecipe
+
+Attributes
+listOfIngredients (array)
+cookTimeMinutes (integer)
+recipeName (string)
+price (float)
+isHealthy (boolean)
+
+Methods
+addHealthyIngredient (adds one ingredient to listOfIngredients and updates isHealthy)
+addUnhealthyIngredient (adds one ingredient to listOfIngredients and updates isHealthy)
+increaseTime (increases cookTimeMinutes)
+updateName (changes recipeName)
+increasePrice (increases price)
