@@ -8,7 +8,7 @@ skills = ["knows advanced calculus", "knows JavaScript", "has charisma", "is sup
 isReliable = false
 
 Methods
-changeName: name = "Employee #506"
+changeName: name = "Employee #508"
 addMonth: monthsEmployed = 401
 changeWage: hourlyWage = -2.50
 addSkill: skills = ["knows advanced calculus", "knows JavaScript", "has charisma", "is super duper fast", "can cook avocado toast", "can clear table"] (adds can clear table to list)
