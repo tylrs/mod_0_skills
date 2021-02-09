@@ -1,0 +1,15 @@
+Instance: avocadoToast
+
+Attributes
+listOfIngredients = ["bread", "4 avocados", "tomato", "red onion", "olive oil", "garlic", "lime juice"]
+cookTimeMinutes = 30
+recipeName = "Taylor's Famous Stereotypical Millennial Avocado Toast"
+price = 1000.25
+isHealthy = true
+
+Methods
+addHealthyIngredient: listOfIngredients = ["bread", "4 avocados", "tomato", "red onion", "olive oil", "garlic", "lime juice", "kale"] (adds kale to list), isHealthy = true
+addUnhealthyIngredient: listOfIngredients = ["bread", "4 avocados", "tomato", "red onion", "olive oil", "garlic", "lime juice", "deep fried butter on a stick"] (adds deep fried butter to list), isHealthy = false
+increaseTime: cookTimeMinutes = 50
+updateName: recipeName = "Taylor's Famous Super Expensive Stereotypical Millennial Deep Fried Butter On A Stick Avocado Toast"
+increasePrice: price = 10000.25
