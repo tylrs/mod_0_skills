@@ -1,0 +1,15 @@
+Class: Employee
+
+Attributes
+name (string)
+monthsEmployed (integer)
+hourlyWage (float)
+skills (array)
+isReliable (boolean)
+
+Methods
+changeName (update name)
+addMonth (increase monthsEmployed by 1)
+changeWage (increase or decrease hourlyWage)
+addSkill (add skill to skills)
+changeReliability (update isReliable)
