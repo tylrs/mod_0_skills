@@ -1,9 +1,9 @@
-var food = "Taco Bowl";
-var isDelicious = true;
-food = "Enchilada Bowl";
-var num2 = 5;
-var num7 = 30;
-var quotient = num7 / num2;
-var songs = ["Never Gonna Give You Up", "All Star", "Time After Time"];
-songs.shift();
-food.length;
+var famousPerson = "John Stamos";
+var isActive = false;
+famousPerson = "John Von Jovi";
+var num3 = 10;
+var num9 = 25;
+var sum = num3 + num9;
+var animals = ["Polar Bear", "Human", "Cat"];
+animals.shift();
+famousPerson.length;
