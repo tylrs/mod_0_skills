@@ -1,0 +1,15 @@
+Instance: Taylor Galloway
+
+Attributes
+name = "Taylor Galloway"
+monthsEmployed = 400
+hourlyWage = 2.50
+skills = ["can move", "will soon know JavaScript", "used to have charisma", "is alive", "can cook pasta"]
+isReliable = false
+
+Methods
+changeName: name = "Employee #508"
+addMonth: monthsEmployed = 401
+changeWage: hourlyWage = -2.50
+addSkill: skills = ["can move", "will soon know JavaScript", "used to have charisma", "is alive", "can cook pasta", "isn't scary"]
+changeReliability:isReliable = true
