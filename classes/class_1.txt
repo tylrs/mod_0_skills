@@ -1,15 +1,15 @@
-Class: BrunchRecipe
+Class: LunchMenu
 
 Attributes
-listOfIngredients (array)
-cookTimeMinutes (integer)
-recipeName (string)
-price (float)
+menuItems (array)
+totalCookTimeMinutes (integer)
+headChefName (string)
+pricePerStudent(float)
 isHealthy (boolean)
 
 Methods
-addHealthyIngredient (adds one ingredient to listOfIngredients and updates isHealthy)
-addUnhealthyIngredient (adds one ingredient to listOfIngredients and updates isHealthy)
-increaseTime (increases cookTimeMinutes)
-updateName (changes recipeName)
-increasePrice (increases price)
+addHealthyItem (adds one item to menuItems and updates isHealthy)
+addUnhealthyItem (adds one item to menuItems and updates isHealthy)
+increaseTime (increases totalCookTimeMinutes)
+updateName (changes headChefName)
+increasePrice (increases pricePerStudent)
