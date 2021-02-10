@@ -1,0 +1,15 @@
+Instance: drSeussDayLunchMenu
+
+Attributes
+menuItems = ["Green Eggs and Ham", "Cat In The Hat Soup", "The Lorax Lox Sandwich"]
+totalCookTimeMinutes = 80
+headChefName = Theodor Geisel
+pricePerStudent = 100.50
+isHealthy = false
+
+Methods
+addHealthyItem: menuItems = ["Green Eggs and Ham", "Cat In The Hat Soup", "The Lorax Lox Sandwich", "Salad"] isHealthy = true
+addUnhealthyItem: menuItems = ["Green Eggs and Ham", "Cat In The Hat Soup", "The Lorax Lox Sandwich", "Horton The Elephant Pie"] isHealthy = false
+increaseTime: totalCookTimeMinutes = 300
+updateName: headChefName = Taylor Galloway
+increasePrice: pricePerStudent = 3000.50
